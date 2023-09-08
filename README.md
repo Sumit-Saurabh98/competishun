@@ -2,9 +2,17 @@
 
 ## Introduction
 
-"Welcome to our movie website, where you can explore the world of cinema, discover your favorite films, and stay up-to-date with the latest releases."
+"Welcome to our movie website, where you can explore the world of cinema, discover your favourite films, and stay up-to-date with the latest releases."
 
-## Deplolyed App
+## Note:-
+deployed like might cause some issue 
+
+## flow these steps
+open the project directory
+npm install
+npm start
+
+## Deployed App
 
 https://moviekiduniya.netlify.app/
 
@@ -19,12 +27,14 @@ List out the key features of your application.
 - add in watchlist
 - firebase authentication
 - logout
+- pagination
+
 
 ## Installation & Getting started
 
 ## Usage
 
-login first, if you want to add to watchlist or favorites
+login first, if you want to add to the watchlist or favorites
 
 ## Screenshots
 
